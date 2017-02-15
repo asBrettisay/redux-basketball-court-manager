@@ -1,0 +1,6 @@
+---
+applications:
+- name: basketball-court
+  memory: 64M
+  buildpack: staticfile_buildpack
+  instances: 1
